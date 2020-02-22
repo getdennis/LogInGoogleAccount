@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="signINGoogle">Authenticate Google Account</string>
+</resources>
